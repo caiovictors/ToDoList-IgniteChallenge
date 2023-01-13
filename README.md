@@ -24,7 +24,7 @@ $ npx expo start
  * **On Expo Go, click on *Scan QR code*, and scan the one that's showing on your PC's terminal** </br>
  * **Enjoy!**
 
-# Functionalities
+# 📲 Functionalities
 
   * **You can create, check, remove and track your tasks**
 
@@ -44,7 +44,6 @@ $ npx expo start
 
  # 💻 Technologies
 
-### ⚛️ Frameworks
 - [x] [Typescript](https://www.typescriptlang.org/).
 - [x] [React Native](https://reactnative.dev/)
 - [x] [Expo](https://expo.io/)
