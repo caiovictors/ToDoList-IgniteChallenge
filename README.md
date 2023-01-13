@@ -10,6 +10,10 @@
 
 # ⚙️ How to run
 
+### 📃 Prerequisites
+ * **Node** v16.16.0
+ * **Expo Go App**
+
 ### :computer: On PC
  * **Clone this repository**
  * **Inside project's folder, run:**
