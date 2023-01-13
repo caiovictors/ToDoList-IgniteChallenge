@@ -1,6 +1,8 @@
+<br /><br />
 <h4 align="center">
 <img src="./src/assets/logo.png" align="center"/>
 </h4>
+<br /><br />
 
 # 💡 About
 
@@ -44,6 +46,6 @@ $ npx expo start
 
  # 💻 Technologies
 
-- [x] [Typescript](https://www.typescriptlang.org/).
-- [x] [React Native](https://reactnative.dev/)
-- [x] [Expo](https://expo.io/)
+- ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![image](https://img.shields.io/badge/Expo-007ACC?style=for-the-badge&logo=expo&logoColor=white)
