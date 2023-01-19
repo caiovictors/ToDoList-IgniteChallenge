@@ -36,9 +36,9 @@ $ npx expo start
 
 
 
-            **Create**                
-            **Check**             
-            **Remove**
+         **➕ Create**                
+         **✔ Check**             
+         **❌ Remove**
 
 
 <p align="center">
